@@ -1,0 +1,52 @@
+.modal-header {
+  margin-bottom: 2rem;
+}
+
+.modal-header>h2 {
+  letter-spacing: 2px;
+  color: #333;
+  text-transform: uppercase;
+  margin-top: 10px;
+}
+
+input {
+  padding: 0.3rem !important;
+}
+
+.modal-button {
+  border-radius: 0 6px 6px 0;
+  padding: 0.1rem !important;
+  border-color: lightgreen;
+  color: black;
+}
+
+.modal-button:hover {
+  background-color: lightgreen;
+}
+
+.modal-button:disabled {
+  border-color: grey;
+  color: grey;
+}
+
+.modal-button:disabled:hover {
+  border-color: grey;
+  color: grey;
+  background-color: white;
+  cursor: default;
+}
+
+.input-container {
+  max-width: 80%;
+  margin: 0 auto 10px;
+  text-align: center;
+}
+
+.loader-container {
+  margin: 1rem;
+}
+
+.bottom-button {
+  margin: 1rem 30%;
+  width: 40%;
+}

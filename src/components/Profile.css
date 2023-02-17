@@ -1,0 +1,21 @@
+.profile-heading{
+    margin-top: 1rem;
+    padding-top: 1rem;
+}
+.profile-head {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 1rem;
+}
+
+.profile-container {
+    width: 80%;
+    margin: 1rem auto;
+    border: solid 1px black;
+    padding: 0.3rem;
+    border-radius: 10px;
+}
+
+.user-info {
+    margin-left: 20px;
+}
